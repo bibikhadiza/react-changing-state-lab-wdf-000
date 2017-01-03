@@ -20,3 +20,6 @@ const solutions = [
 ];
 
 module.exports = solutions;
+
+//i need to iterate over each solution
+//board[sol][0] 
